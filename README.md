@@ -4,9 +4,7 @@ This project explores a real-world pizza sales dataset and provides actionable b
 
 The analysis highlights:
 
-Basic Insights: Total orders, total revenue, most common pizza size, top 5 pizza types./n
-Intermediate Insights: Category-wise sales, hourly order distribution, daily averages, top pizzas by revenue./n
-Advanced Insights: Revenue contribution %, cumulative revenue trends, category-wise top revenue pizzas.
+Basic Insights: Total orders, total revenue, most common pizza size, top 5 pizza types. Intermediate Insights: Category-wise sales, hourly order distribution, daily averages, top pizzas by revenue. Advanced Insights: Revenue contribution %, cumulative revenue trends, category-wise top revenue pizzas.
 
 Learnings:
    Discover customer preferences and peak sales hours.
