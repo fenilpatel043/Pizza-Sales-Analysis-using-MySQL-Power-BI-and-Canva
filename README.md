@@ -11,4 +11,4 @@ Learnings:
    Identify best-selling items to optimize promotions.
    Support decision-making for staffing, inventory, and customer satisfaction.
 
-Tools Used: MySQL | Power BI | Canva
+Tools Used: MySQL | Power BI | Canva 
